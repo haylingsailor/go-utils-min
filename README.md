@@ -2,6 +2,8 @@
 A collection of packages providing low level utilities for use in multiple
 projects.
 
+This version of go-utils was forked from elasticlic, and supports els-cli.
+
 ## Packages
 
 **datetime** - includes NowTimeProvider - use this rather than time.Now() in
